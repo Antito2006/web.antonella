@@ -1,0 +1,18 @@
+/* Clase 1: cambia el color del título principal */
+.titulo-personalizado {
+    color: #ff5733;
+    font-weight: bold;
+}
+
+/* Clase 2: da fondo suave y bordes al formulario */
+.fondo-formulario {
+    background-color: #e3f2fd;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+/* Clase 3: agrega sombra a elementos */
+.sombra-personalizada {
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+}
+
